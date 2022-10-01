@@ -16,7 +16,6 @@
    - It provides Graphical User Interface (GUI)
    - Founded in 2008
 
-<img src="./images/git and github.png" width="90%">
      
 <br/>
 
@@ -103,8 +102,6 @@ git configuration
 - `git reset --soft HEAD^` uncommit the commit in HEAD and move to staging area
 - `git reset HEAD^` uncommit the commit in HEAD and move to unstaging / working area
 - `git reset --hard HEAD^` uncommit the commit in HEAD and delete the commit completely with all the changes
-
-<img src="./images/git-level.png" width="90%">
 
 <br/>
 
