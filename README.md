@@ -1,6 +1,6 @@
-# Git & GitHub Documentation
+# Learn Git and GitHub in 7 day's (Documentation Git and GitHub)
 
-### Lesson 1. Introduction to git and GitHub
+### Lesson 1. Introduction to git and GitHub 
 
 1. git?
    - git is a version control software
