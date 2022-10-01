@@ -279,3 +279,7 @@ git configuration
 - https://www.tutorialspoint.com/what-is-merge-conflict-in-git-how-to-handle-merge-conflicts
 
 <br>
+### Git and GitHub Learning Video Sources:--
+   <b>1.For Bangla: https://youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-</b>
+   <b>2.For Hindi: https://youtu.be/zGq7T9gZH2k</b>
+   <br>3. For English: https://youtu.be/RGOj5yH7evk </br>
