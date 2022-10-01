@@ -188,16 +188,16 @@ git configuration
    ```
       <!-- automatic link -->
 
-      http://www.studywithanis.com
+      https://www.google.com
 
       <!-- markdown link syntax -->
       [title](link)
-      [studywithanis](http://www.studywithanis.com)  
+      [Google](https://www.google.com)  
       [studywithanis][websitelink]
 
       <!-- all link is here  -->
 
-      [websitelink]: http://www.studywithanis.com
+      [websitelink]: https://www.google.com
 
 - adding image syntax -> `![alt text](imageURL)`
       `![1800 milestone](https://i.postimg.cc/qvZpmxKF/1-800-Uploads-Milestone.png)`
